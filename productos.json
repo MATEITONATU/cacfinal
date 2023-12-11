@@ -1,0 +1,182 @@
+{"productos": [
+{
+    "id":"001",
+    "nombre":"Celular Samsung GALAXY A54",
+    "desc":"lorem impsum",
+    "precio":384000,
+    "img":"./images/celularSamsung.jpg",
+    "categoria":"celular"
+
+},
+{
+    "id":"002",
+    "nombre":"Celular Motorola G23",
+    "desc":"lorem impsum",
+    "precio":140500,
+    "img":"./images/celularMotorola.jpg",
+    "categoria":"celular"
+
+},
+{
+    "id":"003",
+    "nombre":"Celular Quantum Q30",
+    "desc":"lorem impsum",
+    "precio":130000,
+    "img":"./images/celularQuantum.jpg",
+    "categoria":"celular"
+
+},
+{
+    "id":"004",
+    "nombre":"Celular Xiaomi REDMI Note 11",
+    "desc":"lorem impsum",
+    "precio":135000,
+    "img":"./images/celularXiaomi.jpg",
+    "categoria":"celular"
+
+},
+{
+    "id":"005",
+    "nombre":"Celular TCL 405",
+    "desc":"lorem impsum",
+    "precio":108000,
+    "img":"./images/celularTCL.jpg",
+    "categoria":"celular"
+
+},
+{
+    "id":"006",
+    "nombre":"Celular Apple iPhone SE",
+    "desc":"lorem impsum",
+    "precio":840000,
+    "img":"./images/celularIphone.jpg",
+    "categoria":"celular"
+
+},
+{
+    "id":"007",
+    "nombre":"Celular Zte Blade V40",
+    "desc":"lorem impsum",
+    "precio":110000,
+    "img":"./images/celularZTE.jpg",
+    "categoria":"celular"
+
+},
+{
+    "id":"008",
+    "nombre":"Auriculares Inalámbricos JBL Tune 510BT",
+    "desc":"lorem impsum",
+    "precio":48000,
+    "img":"./images/auriJBL.jpg",
+    "categoria":"auricular"
+
+},
+{
+    "id":"009",
+    "nombre":"Auriculares Inalámbricos Xiaomi Redmi Buds 4 Lite",
+    "desc":"lorem impsum",
+    "precio":28000,
+    "img":"./images/auriXiaomi.jpg",
+    "categoria":"auricular"
+
+},
+{
+    "id":"010",
+    "nombre":"Auriculares Inalámbricos Philips TAT2206BK/00",
+    "desc":"lorem impsum",
+    "precio":35000,
+    "img":"./images/auriPhilips.jpg",
+    "categoria":"auricular"
+
+},
+{
+    "id":"011",
+    "nombre":"Notebook Samsung 16” Intel Core i7 Galaxy Book3 Pro 360",
+    "desc":"lorem impsum",
+    "precio":1245000,
+    "img":"./images/compuSamsung.jpg",
+    "categoria":"computadora"
+
+},
+{
+    "id":"012",
+    "nombre":"Notebook ASUS Vivobook 15” Core i7 8GB 512GB Win11 X1502ZA-EJ192W",
+    "desc":"lorem impsum",
+    "precio":900000,
+    "img":"./images/compuAsus.jpg",
+    "categoria":"computadora"
+
+},
+{
+    "id":"013",
+    "nombre":"Notebook HP 14” Intel Core i3 4GB 256GB SSD 14-DQ2505LA",
+    "desc":"lorem impsum",
+    "precio":420000,
+    "img":"./images/compuHP.jpg",
+    "categoria":"computadora"
+
+},
+{
+    "id":"014",
+    "nombre":"Notebook Lenovo 14” Celeron 4GB 500GB IdeaPad 3 81WH0015AR",
+    "desc":"lorem impsum",
+    "precio":220000,
+    "img":"./images/compuLenovo.jpg",
+    "categoria":"computadora"
+
+},
+{
+    "id":"015",
+    "nombre":"Notebook Dell Inspiron 15.6” AMD Ryzen 7 8 GB 512 GB SSD 3525",
+    "desc":"lorem impsum",
+    "precio":630000,
+    "img":"./images/compuDell.jpg",
+    "categoria":"computadora"
+
+},
+{
+    "id":"016",
+    "nombre":"Notebook Acer 15,6” Intel Core i5 12 Núcleos 8GB 512GB SSD Nitro 5 Placa RTX 3050",
+    "desc":"lorem impsum",
+    "precio":770000,
+    "img":"./images/compuAcer.jpg",
+    "categoria":"computadora"
+
+},
+{
+    "id":"017",
+    "nombre":"Smartwatch Fitband Xiaomi Mi Smart Band 7",
+    "desc":"lorem impsum",
+    "precio":53000,
+    "img":"./images/relojXiaomi.jpg",
+    "categoria":"reloj"
+
+},
+{
+    "id":"018",
+    "nombre":"Smartwatch Amazfit T-rex 2",
+    "desc":"lorem impsum",
+    "precio":130000,
+    "img":"./images/relojAmazfit.jpg",
+    "categoria":"reloj"
+
+},
+{
+    "id":"019",
+    "nombre":"Smartwatch Mibro T1",
+    "desc":"lorem impsum",
+    "precio":56000,
+    "img":"./images/relojMibro.jpg",
+    "categoria":"reloj"
+
+},
+{
+    "id":"020",
+    "nombre":"Smartwatch Apple Serie 8",
+    "desc":"lorem impsum",
+    "precio":342000,
+    "img":"./images/relojApple.jpg",
+    "categoria":"reloj"
+
+}
+]}

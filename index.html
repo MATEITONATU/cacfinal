@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Francois+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://kit.fontawesome.com/5d9d4bbcb5.js" crossorigin="anonymous"></script>
+    <title>MercadoCodo</title>
+</head>
+
+<body>
+    <header>
+        <a href="#" class="Logo">MercadoCodo</a>
+
+        <button class="toggle">
+            <i class="fa-solid fa-bars"></i>
+        </button>
+
+        <div class="container">
+            <input type="text" placeholder="Buscar...">
+            <button><i class="fa-solid fa-magnifying-glass"></i></button>
+        </div>
+
+        <div class="buttons">
+            <a href="pages/Contacto.html" contacto><i class="fa-solid fa-phone"></i></a>
+            <a href="pages/Carrito.html" carrito><i class="fa-solid fa-cart-shopping"></i></a>
+            <a href="pages/Perfil.html" perfil><i class="fa-solid fa-user"></i></a>
+            <a href="pages/Compras.html" compras><i class="fa-solid fa-user"></i></a>
+        </div>
+    </header>
+    <div class="fixed-navbar" style="background-color: #c4c1c1; border:2px solid rgb(27, 27, 92);text-align: center;position: fixed; 
+    top: 60px; 
+    right: 20px; z-index: 1000;width: 200px;height: 120px; padding: 10px; ">
+        <div id="cotizador-container" style="font-size: 18px;"></div>
+        <h1 id="cotizador-title" style="font-size: 14px">Cotización del Dólar</h1>
+        <p style=>La cotización es: <span id="cotizacion"></span></p>
+    </div>
+     
+    
+
+    <nav>
+        <ul>
+            <li><a href="#">Celulares</a></li>
+            <li><a href="#">Computacion</a></li>
+            <li><a href="#">Relojes</a></li>
+            <li><a href="#">Auriculares</a></li>
+        </ul>
+    </nav>
+
+    
+    
+
+
+    
+
+
+    
+    <main>
+        <h1 class="tituloProductos">Todos los productos</h1>
+        <div class="cardContainer" id="cardProductos">
+
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="redes">
+            <ul>
+                <li><a href="https://www.facebook.com" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
+                <li><a href="https://www.twitter.com" target="_blank"><i class="fa-brands fa-twitter"></i></a></li>
+                <li><a href="https://www.instagram.com" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
+                <li><a href="https://www.youtube.com" target="_blank"><i class="fa-brands fa-youtube"></i></a></li>
+            </ul>
+        </div>
+
+        <p class="copyright">copyright © 2023 Mercado Codo,S.A</p>
+    </footer>
+
+    <script src="script.js"></script>
+    <script src="dolar.js"></script>
+</body>
+</html>
